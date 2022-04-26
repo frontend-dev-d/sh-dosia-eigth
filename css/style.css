@@ -454,7 +454,6 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1024px;
     background: #20232D;
     border-radius: 10px;
     margin-bottom: 5px;
